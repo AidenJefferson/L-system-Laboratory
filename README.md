@@ -11,7 +11,7 @@ The application is simple in design and use. Simply enter your desired L-system 
 
 ## Installation
 
-To install L-system Laboratory you can use the [installer](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/Installer/L-system-Laboratory.exe) provided above. However, should you wish to install the application using source code you will require the [Qt Creator IDE](https://www.qt.io/product/development-tools).
+To install L-system Laboratory you can use the [installer](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/installer/L-system-Laboratory.exe) provided above. However, should you wish to install the application using source code you will require the [Qt Creator IDE](https://www.qt.io/product/development-tools).
 
 ## Example L-systems
 
