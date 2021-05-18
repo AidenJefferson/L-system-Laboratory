@@ -4,14 +4,14 @@ This application was created as part of my final year project at The University 
 
 ## Application
 
-The application is simple in design and use. Simply enter your desired L-system parameters in the corresponding fields to the right of the window and select the "generate" button to display the L-system in 3D.
+The application is simple in design and use. Simply enter your desired L-system parameters in the corresponding fields to the right of the window and select the "generate" button to display the L-system in 3D. Should you require any help the instructions button contains details of how format your L-system.
 
 ![L-system-Laboratory Application](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/application.png)
 
 
 ## Installation
 
-To install L-system Laboratory you can simply use the [installer](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/Installer/L-system-Laboratory.exe) provided above. However, should you wish to install the application using source code you will require the Qt Creator IDE.
+To install L-system Laboratory you can use the [installer](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/Installer/L-system-Laboratory.exe) provided above. However, should you wish to install the application using source code you will require the [Qt Creator IDE](https://www.qt.io/product/development-tools).
 
 ## Example L-systems
 
@@ -19,7 +19,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Vine Structure 
 
-![Vine L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/vine.png)
+    ![Vine L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/vine.png "Vine L-system")
 
 ```
     
@@ -37,7 +37,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Cactus Structure 
 
-![Cactus L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/cactus.png)
+    ![Cactus L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/cactus.png "Cactus L-system")
 
 ```
     
@@ -56,7 +56,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Tree Structure 
 
-![Tree L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/tree.png)
+    ![Tree L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/tree.png "Tree L-system")
 
 ```
     
