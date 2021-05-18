@@ -19,7 +19,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Vine Structure 
 
-    ![Vine L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/vine.png)
+![Vine L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/vine.png)
 
 ```
     
@@ -37,7 +37,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Cactus Structure 
 
-    ![Cactus L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/cactus.png)
+![Cactus L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/cactus.png)
 
 ```
     
@@ -56,7 +56,7 @@ The following are some examples of the types of L-systems capable of being produ
 
 ### Tree Structure 
 
-    ![Tree L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/tree.png)
+![Tree L-system](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/tree.png)
 
 ```
     
