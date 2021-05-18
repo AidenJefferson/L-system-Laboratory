@@ -6,7 +6,7 @@ This application was created as part of my final year project at The University 
 
 The application is simple in design and use. Simply enter your desired L-system parameters in the corresponding fields to the right of the window and select the "generate" button to display the L-system in 3D.
 
-![L-system-Laboratory Application](https://github.com/AidenJefferson/L-system-Laboratory/tree/main/images/application.png "application.png")
+![L-system-Laboratory Application](https://github.com/AidenJefferson/L-system-Laboratory/blob/main/images/application.png)
 
 
 
